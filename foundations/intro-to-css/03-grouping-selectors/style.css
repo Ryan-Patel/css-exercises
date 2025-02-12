@@ -1,0 +1,14 @@
+.firstclick,
+.secondclick {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.secondclick {
+    background-color: yellow;
+}
+
+.firstclick {
+    background-color: black;
+    color: white;
+}
